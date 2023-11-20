@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-See it [here](https://duckduckgo.com)
+See it [here](./files/CV.pdf)
 <br/>
