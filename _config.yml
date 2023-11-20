@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Caroline Lawless"
   avatar           : "images/profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Oxford"
+  bio              : "PhD student, Statistics"
   location         : "Paris, France"
-  employer         :
+  employer         : "University of Oxford"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
