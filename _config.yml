@@ -83,8 +83,8 @@ author:
   name             : "Caroline Lawless"
   avatar           : "images/profile.png"
   bio              : "PhD student, Statistics"
-  location         : "Paris, France"
   employer         : "Oxford, UK"
+  location         : "Paris, France"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
