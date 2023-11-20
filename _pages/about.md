@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Caroline! 
+I am a final year PhD student in statistics at the ([University of Oxford](https://www.ox.ac.uk/)). 
 
-EFZ
+
