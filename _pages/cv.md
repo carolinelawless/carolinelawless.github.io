@@ -6,6 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-See it <u><a>here</a></u>. Updated 03/2023.
+See it [here](https://duckduckgo.com)
 <br/>
