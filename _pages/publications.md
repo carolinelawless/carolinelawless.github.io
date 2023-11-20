@@ -22,7 +22,7 @@ author_profile: true
 
 * Lawless, C., Arbel, J. (2019)
 **A simple proof of Pitman--Yor's Chinese restaurant process from its stick-breaking representation**
-*A simple proof of Pitman--Yor's Chinese restaurant process from its stick-breaking representation* ([HAL](https://hal.science/hal-01950653))
+*Dependence Modeling* ([HAL](https://hal.science/hal-01950653))
 
 
 
