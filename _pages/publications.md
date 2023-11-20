@@ -16,8 +16,7 @@ author_profile: true
 {% endfor %}
 
 * Lawless, Robert, Rousseau, Ryder (2023+)
-**Asympt**
-*Arxiv*,  ([pdf](https://arxiv.org/abs/2311.10080)).
+**Asymptotics of approximate Bayesian computation when summary statistics converge at heterogeneous rates**, ([Arxiv](https://arxiv.org/abs/2311.10080)).
 
 * Lawless, Alamichel, Arbel, Kon Kam King (2023)
 **Clustering consistency with Dirichlet process mixtures.**
