@@ -16,9 +16,14 @@ author_profile: true
 **Asymptotics of approximate Bayesian computation when summary statistics converge at heterogeneous rates.**
 ([arXiv](https://arxiv.org/abs/2311.10080)).
 
-* Lawless? C., Alamichel L., Arbel, J., Kon Kam King, G. (2023)
+* Lawless, C., Alamichel L., Arbel, J., Kon Kam King, G. (2023)
 **Clustering inconsistency for Pitman--Yor mixture models with a prior on the precision but fixed discount parameter**
 *Fifth Symposium on Advances in Approximate Bayesian Inference* ([http](https://openreview.net/forum?id=r9CvCsfkfPW))
+
+* Lawless, C., Arbel, J. (2019)
+**A simple proof of Pitman--Yor's Chinese restaurant process from its stick-breaking representation**
+*A simple proof of Pitman--Yor's Chinese restaurant process from its stick-breaking representation* ([HAL](https://hal.science/hal-01950653))
+
 
 
 
