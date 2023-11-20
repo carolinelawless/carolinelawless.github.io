@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Caroline Lawless"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD student, Statistics"
   employer         : "Oxford, UK"
   location         : "Paris, France"
