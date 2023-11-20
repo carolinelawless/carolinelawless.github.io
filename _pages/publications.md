@@ -16,6 +16,11 @@ author_profile: true
 **Asymptotics of approximate Bayesian computation when summary statistics converge at heterogeneous rates.**
 ([arXiv](https://arxiv.org/abs/2311.10080)).
 
+* Lawless? C., Alamichel L., Arbel, J., Kon Kam King, G. (2023)
+**Clustering inconsistency for Pitman--Yor mixture models with a prior on the precision but fixed discount parameter**
+*Fifth Symposium on Advances in Approximate Bayesian Inference* ([http](https://openreview.net/forum?id=r9CvCsfkfPW))
+
+
 
 
 
