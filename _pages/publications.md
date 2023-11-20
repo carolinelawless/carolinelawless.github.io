@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Lawless, C., Robert, J., Rousseau , J., Ryder, R. (2023+)
+* Lawless, C., Robert, J., Rousseau , J., Ryder, R. (2023)
 **Asymptotics of approximate Bayesian computation when summary statistics converge at heterogeneous rates**
 ([arXiv](https://arxiv.org/abs/2311.10080))
 
